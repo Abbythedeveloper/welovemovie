@@ -8,6 +8,7 @@ const reviewsRouter = require("./reviews/reviews.router");
 const theatersRouter = require("./theaters/theaters.router");
 const notFound = require("./errors/notFound");
 const errorHandler = require("./errors/errorHandler");
+
 const app = express();
 app.use(cors());
 app.use(express.json());
