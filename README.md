@@ -17,12 +17,13 @@ Completion of this Thinkful assignment required:
 - Use of the CORS package so that requests from the frontend can correctly reach the backend 
 
 ## Links
-- [App Demo](https://we-love-movies-app-front-end.vercel.app/)
-- [App Documentation](https://github.com/angelalouh/project-welovemovies-app)
+- [App Demo](https://we-love-movies-app-front-end.vercel.app/](https://starter-movie-front-end-gray.vercel.app/)
+- [App Documentation](https://github.com/Abbythedeveloper/welovemovie/)
 
 ## Screenshot
 ### Home Page:
-![home](/screenshots/home.jpg)
+![image](https://user-images.githubusercontent.com/98557317/203417284-3ffd5182-15f8-4177-922b-0a04ada7d811.png)
+
 
 ## Technology
 Built with:
